@@ -15,14 +15,14 @@
 ## Phase 1: Setup (Shared Infrastructure)
 **Purpose**: Project initialization and basic structure.
 
-- [ ] T001 Initialize Vite + React + TypeScript project in `H:\portfolio\`
-- [ ] T002 Install core dependencies: `react`, `react-dom`, `gsap`, `react-icons`, `lucide-react`, `react-hook-form`, `@hookform/resolvers`, `yup`, `@emailjs/browser` in `H:\portfolio\package.json`
-- [ ] T003 Install dev dependencies: `tailwindcss`, `postcss`, `autoprefixer`, `daisyui`, `storybook`, `playwright` in `H:\portfolio\package.json`
-- [ ] T004 [P] Configure TailwindCSS by creating `H:\portfolio\tailwind.config.js` and `H:\portfolio\postcss.config.js`
-- [ ] T005 [P] Configure DaisyUI themes within `H:\portfolio\tailwind.config.js`
-- [ ] T006 [P] Initialize Storybook configuration in `H:\portfolio\.storybook\`
-- [ ] T007 [P] Create the Atomic Design folder structure inside `H:\portfolio\src\` (`components/atoms`, `components/molecules`, etc.)
-- [ ] T008 [P] Create the initial data folder and files: `src/data/projects.ts`, `src/data/skills.ts`, `src/data/about.ts`
+- [x] T001 Initialize Vite + React + TypeScript project in `H:\portfolio\`
+- [x] T002 Install core dependencies: `react`, `react-dom`, `gsap`, `react-icons`, `lucide-react`, `react-hook-form`, `@hookform/resolvers`, `yup`, `@emailjs/browser` in `H:\portfolio\package.json`
+- [x] T003 Install dev dependencies: `tailwindcss`, `postcss`, `autoprefixer`, `daisyui`, `storybook`, `playwright` in `H:\portfolio\package.json`
+- [x] T004 [P] Configure TailwindCSS by creating `H:\portfolio\tailwind.config.js` and `H:\portfolio\postcss.config.js`
+- [x] T005 [P] Configure DaisyUI themes within `H:\portfolio\tailwind.config.js`
+- [x] T006 [P] Initialize Storybook configuration in `H:\portfolio\.storybook\`
+- [x] T007 [P] Create the Atomic Design folder structure inside `H:\portfolio\src\` (`components/atoms`, `components/molecules`, etc.)
+- [x] T008 [P] Create the initial data folder and files: `src/data/projects.ts`, `src/data/skills.ts`, `src/data/about.ts`
 
 ---
 ## Phase 2: Foundational Atoms
