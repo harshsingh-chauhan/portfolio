@@ -28,16 +28,16 @@
 ## Phase 2: Foundational Atoms
 **Purpose**: Build the smallest, most reusable UI components. These are prerequisites for molecules and organisms.
 
-- [ ] T009 [P] Create the `Button` atom in `src/components/atoms/Button/Button.tsx` and its Storybook story.
-- [ ] T010 [P] Create the `Typography` atom in `src/components/atoms/Typography/Typography.tsx` and its Storybook story.
-- [ ] T011 [P] Create the `Icon` atom in `src/components/atoms/Icon/Icon.tsx` as a wrapper for `react-icons`.
-- [ ] T012 [P] Create the `Badge` atom in `src/components/atoms/Badge/Badge.tsx` and its Storybook story.
-- [ ] T013 [P] Create the `Avatar` atom in `src/components/atoms/Avatar/Avatar.tsx` and its Storybook story.
-- [ ] T014 [P] Create the `Link` atom in `src/components/atoms/Link/Link.tsx` and its Storybook story.
-- [ ] T015 [P] Create the `Card` atom in `src/components/atoms/Card/Card.tsx` as a base container.
-- [ ] T016 [P] Create the `Switch` atom in `src/components/atoms/Switch/Switch.tsx` for the theme toggle.
-- [ ] T017 [P] Create the `Input` and `Textarea` atoms in `src/components/atoms/Input/` for forms.
-- [ ] T018 [P] Create the `Skeleton` atom in `src/components/atoms/Skeleton/Skeleton.tsx` for loading states.
+- [x] T009 [P] Create the `Button` atom in `src/components/atoms/Button/Button.tsx` and its Storybook story.
+- [x] T010 [P] Create the `Typography` atom in `src/components/atoms/Typography/Typography.tsx` and its Storybook story.
+- [x] T011 [P] Create the `Icon` atom in `src/components/atoms/Icon/Icon.tsx` as a wrapper for `react-icons`.
+- [x] T012 [P] Create the `Badge` atom in `src/components/atoms/Badge/Badge.tsx` and its Storybook story.
+- [x] T013 [P] Create the `Avatar` atom in `src/components/atoms/Avatar/Avatar.tsx` and its Storybook story.
+- [x] T014 [P] Create the `Link` atom in `src/components/atoms/Link/Link.tsx` and its Storybook story.
+- [x] T015 [P] Create the `Card` atom in `src/components/atoms/Card/Card.tsx` as a base container.
+- [x] T016 [P] Create the `Switch` atom in `src/components/atoms/Switch/Switch.tsx` for the theme toggle.
+- [x] T017 [P] Create the `Input` and `Textarea` atoms in `src/components/atoms/Input/` for forms.
+- [x] T018 [P] Create the `Skeleton` atom in `src/components/atoms/Skeleton/Skeleton.tsx` for loading states.
 
 ---
 ## Phase 3: User Story 1 - View Professional Identity (Hero) 🎯 MVP
